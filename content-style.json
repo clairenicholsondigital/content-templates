@@ -1,0 +1,18 @@
+{
+  "tone": "professional but approachable",
+  "language": "British English",
+  "format": {
+    "paragraphs": "short",
+    "headings": "clear and descriptive",
+    "bulletPoints": "concise, no more than 5 points per list"
+  },
+  "examples": [
+    "case studies",
+    "step-by-step guides",
+    "practical tips with real-world applications"
+  ],
+  "keywords": {
+    "emphasis": ["clarity", "practicality", "engagement"],
+    "avoid": ["jargon", "overly technical language", "vague statements"]
+  }
+}
