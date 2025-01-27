@@ -1,0 +1,19 @@
+{
+  "templates": [
+    {
+      "id": "hashtags",
+      "description": "Common sets of trending hashtags",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/social/hashtags.json"
+    },
+    {
+      "id": "hooks",
+      "description": "Social media post hooks",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/social/hooks.json"
+    },
+    {
+      "id": "body",
+      "description": "Example body copy for social media posts",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/social/body.json"
+    }
+  ]
+}
