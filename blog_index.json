@@ -1,0 +1,24 @@
+{
+  "templates": [
+    {
+      "id": "introduction",
+      "description": "Intro paragraph templates",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/blog/introduction.json"
+    },
+    {
+      "id": "subheadings",
+      "description": "Suggested subheading formats",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/blog/subheadings.json"
+    },
+    {
+      "id": "full_how_to_guide",
+      "description": "Comprehensive 'How to' blog structure",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/blog/full_how_to_guide.json"
+    },
+    {
+      "id": "full_listicle",
+      "description": "Template for list-style blog posts",
+      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/blog/full_listicle.json"
+    }
+  ]
+}
