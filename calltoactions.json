@@ -1,0 +1,22 @@
+{
+  "callToActions": [
+    {
+      "id": "learn_more",
+      "text": "Follow the link to find out more",
+      "platforms": ["Instagram", "Facebook"],
+      "postTypes": ["Promo", "Event Announcement"]
+    },
+    {
+      "id": "subscribe_now",
+      "text": "Subscribe to our updates to stay in the loop",
+      "platforms": ["Twitter", "LinkedIn"],
+      "postTypes": ["Newsletter Teaser", "Blog Highlight"]
+    },
+    {
+      "id": "join_community",
+      "text": "Click the link to join our community",
+      "platforms": ["Instagram", "LinkedIn"],
+      "postTypes": ["Community Building", "User Engagement"]
+    }
+  ]
+}
