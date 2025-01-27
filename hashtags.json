@@ -1,0 +1,32 @@
+{
+  "topics": [
+    {
+      "name": "Fitness",
+      "keywords": ["gym", "fitness", "workout"],
+      "platforms": [
+        {
+          "platformName": "Instagram",
+          "hashtags": ["#fitness", "#fitfam", "#workout", "#fitnessgoals"]
+        },
+        {
+          "platformName": "Twitter",
+          "hashtags": ["#Fitness", "#WorkoutWednesday", "#GymLife"]
+        }
+      ]
+    },
+    {
+      "name": "Tech",
+      "keywords": ["technology", "software", "innovation"],
+      "platforms": [
+        {
+          "platformName": "Instagram",
+          "hashtags": ["#techlife", "#softwaredeveloper", "#instatech"]
+        },
+        {
+          "platformName": "Twitter",
+          "hashtags": ["#Tech", "#Software", "#Coding"]
+        }
+      ]
+    }
+  ]
+}
