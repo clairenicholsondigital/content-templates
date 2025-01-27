@@ -1,0 +1,19 @@
+{
+  "steps": [
+    {
+      "id": "firstResearch",
+      "tool": "perplexity",
+      "promptTemplate": "Please do an initial overview on {{topic}}."
+    },
+    {
+      "id": "secondResearch",
+      "tool": "perplexity",
+      "promptTemplate": "Using the first research: {{firstResearch}}, now investigate deeper into {{extraInfo}}."
+    },
+    {
+      "id": "draftArticle",
+      "tool": "dante",
+      "promptTemplate": "Combine insights from firstResearch and secondResearch to draft a succinct blog article."
+    }
+  ]
+}
