@@ -3,7 +3,7 @@
     {
       "id": "hashtags",
       "description": "Common sets of trending hashtags",
-      "url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/social/hashtags.json"
+      "url": "https://raw.githubusercontent.com/clairenicholsondigital/content-templates/refs/heads/main/hashtags.json"
     },
     {
       "id": "hooks",
