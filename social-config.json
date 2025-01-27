@@ -1,0 +1,14 @@
+{
+  "steps": [
+    {
+      "id": "extractKeyMessage",
+      "tool": "perplexity",
+      "promptTemplate": "Summarise the main point of the referenceContent or topic in one sentence."
+    },
+    {
+      "id": "draftPost",
+      "tool": "dante",
+      "promptTemplate": "Create a short social media post using the key message: {{extractKeyMessage}}. Keep it succinct, mention {{topic}} if relevant, and add 2-3 relevant hashtags."
+    }
+  ]
+}
